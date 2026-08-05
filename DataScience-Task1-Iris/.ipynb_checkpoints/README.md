@@ -94,7 +94,7 @@ Two classifiers trained on all four features: **Logistic Regression** and **K-Ne
 <summary><b>Click to view: Boxplots by Species</b></summary>
 <br>
 
-![Boxplots](screenshots/Screenshot_from_2026-08-05_09-17-59.png)
+![Boxplots](screenshots/Screenshot_from_2026-08-05_09-13-17.png)
 </details>
 
 <details>
