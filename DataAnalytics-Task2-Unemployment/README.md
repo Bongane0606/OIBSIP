@@ -118,7 +118,7 @@ Weak correlations across the board (-0.22 max) — expected, since these are sta
 <summary><b>Click to view: Pre-COVID vs. Post-COVID Comparison Table</b></summary>
 <br>
 
-![Pre/post-COVID comparison](screenshots/Screenshot_from_2026-08-06_13-29-30.png)
+![Pre/post-COVID comparison](screenshots/Screenshot_from_2026-08-06_13-29-50.png)
 </details>
 
 ## 📈 Results
