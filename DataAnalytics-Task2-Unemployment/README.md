@@ -93,7 +93,7 @@ Split the data at March 2020 (India's lockdown onset) and compared mean values a
 <summary><b>Click to view: Unemployment Rate Over Time — Top 3 States</b></summary>
 <br>
 
-![Time series — top 3 states](screenshots/timeseries_top3_states.png)
+![Time series — top 3 states](screenshots/Screenshot_from_2026-08-06_13-29-30.png)
 
 Tripura, Haryana, and Jharkhand — the three highest-average states — all spike sharply around April 2020, with Jharkhand peaking above 60%.
 </details>
@@ -102,14 +102,14 @@ Tripura, Haryana, and Jharkhand — the three highest-average states — all spi
 <summary><b>Click to view: Top 10 States by Average Unemployment Rate</b></summary>
 <br>
 
-![Top 10 states bar chart](screenshots/top10_states_bar.png)
+![Top 10 states bar chart](screenshots/Screenshot_from_2026-08-06_13-29-36.png)
 </details>
 
 <details>
 <summary><b>Click to view: Correlation Heatmap</b></summary>
 <br>
 
-![Correlation heatmap](screenshots/correlation_heatmap.png)
+![Correlation heatmap](screenshots/Screenshot_from_2026-08-06_13-29-40.png)
 
 Weak correlations across the board (-0.22 max) — expected, since these are state-month snapshots rather than a single continuous series; the COVID shock shows up far more clearly in the time-series view.
 </details>
@@ -118,7 +118,7 @@ Weak correlations across the board (-0.22 max) — expected, since these are sta
 <summary><b>Click to view: Pre-COVID vs. Post-COVID Comparison Table</b></summary>
 <br>
 
-![Pre/post-COVID comparison](screenshots/precovid_postcovid_comparison.png)
+![Pre/post-COVID comparison](screenshots/Screenshot_from_2026-08-06_13-29-30.png)
 </details>
 
 ## 📈 Results

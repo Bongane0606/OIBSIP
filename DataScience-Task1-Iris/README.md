@@ -101,14 +101,14 @@ Two classifiers trained on all four features: **Logistic Regression** and **K-Ne
 <summary><b>Click to view: Pairwise Feature Relationships</b></summary>
 <br>
 
-![Pairplot](screenshots/Screenshot_from_2026-08-05_09-18-06.png)
+![Pairplot](screenshots/Screenshot_from_2026-08-05_09-18-45.png)
 </details>
 
 <details>
 <summary><b>Click to view: Confusion Matrices</b></summary>
 <br>
 
-![Confusion Matrices](screenshots/Screenshot_from_2026-08-05_09-18-22.png)
+![Confusion Matrices](screenshots/Screenshot_from_2026-08-05_09-18-50.png)
 </details>
 
 ## 📈 Results
